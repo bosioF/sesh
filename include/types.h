@@ -8,4 +8,6 @@ struct ENVR_VARS {
 	char value[MAX_ENVR_VARS_VALUE];
 };
 
+struct ENVR_VARS e_vars[MAX_ENVR_VARS];
+
 #endif
